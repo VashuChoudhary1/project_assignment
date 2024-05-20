@@ -30,7 +30,7 @@ class _MyHomeState extends State<MyHome> {
       resizeToAvoidBottomInset: false,
       appBar: AppBar(
         // ignore: prefer_const_constructors
-        title: Text("Text to Speech"),
+        title: Text("My App"),
         backgroundColor: Color.fromARGB(255, 79, 194, 240),
       ),
       bottomNavigationBar: MyBottomNavBar(
